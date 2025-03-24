@@ -48805,7 +48805,7 @@ A.aK(a,s,r).toString
 r=A.aK(a,s,r).w
 return A.am(s,new A.fV(new A.ajq(r.a.a<800),s),B.k,s,s,s,s,s,s,s,s,s,17976931348623157e292)}}
 A.ajq.prototype={
-$2(a,b){var s=null,r=this.a,q=A.cO("assets/home_bg.jpg",s,B.a7,r?700:600,17976931348623157e292),p=r?700:600,o=A.T(204,0,0,0),n=A.ad("Realtor Udaya Chandran".toUpperCase(),s,s,s,s,A.bU(B.cu,r?22:50,B.A,1),B.al,s),m=A.bz(5),l=t.p
+$2(a,b){var s=null,r=this.a,q=A.cO("assets/home_bg.jpg",s,B.a7,r?700:600,17976931348623157e292),p=r?700:600,o=A.T(204,0,0,0),n=A.ad("Realtor Udaya Chandran".toUpperCase(),s,s,s,s,A.bU(B.cu,r?17:50,B.A,1),B.al,s),m=A.bz(5),l=t.p
 return A.da(B.a9,A.a([q,A.am(B.M,A.ay(A.a([n,new A.Z(s,15,s,s),new A.Z(s,70,s,s),A.am(s,A.ch(!1,s,!0,B.cx,s,!0,s,s,s,s,s,s,s,s,s,new A.ajh(),s,s,s,s,s),B.k,s,s,new A.bj(B.c5,s,s,m,s,s,B.G),s,s,s,new A.X(20,10,20,10),s,s,s)],l),B.j,s,B.Z,B.az),B.k,o,s,s,s,p,s,s,s,s,1/0),A.fH(s,new A.id(s),s,s,0,0,0,s)],l),B.B,B.a5,s)},
 $S:37}
 A.ajh.prototype={
