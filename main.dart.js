@@ -47343,7 +47343,7 @@ A.Rz.prototype={
 F(a){var s,r,q,p=this,o=null,n="7010060302",m="Pollachi\nCoimbatore",l=A.aK(a,o,t.w).w
 p.d=B.d.M(n,0,5)+" "+B.d.M(n,5,10)
 s=t.p
-r=A.a([new A.Z(o,50,o,o),A.dn(A.PK(A.cO("assets/images/logo.png",o,B.a7,70,70)),o,o),new A.Z(o,5,o,o),A.dn(A.ad("Realtor Udaya Chandran".toUpperCase(),o,o,o,o,A.bU(B.i,25,B.A,o),B.al,o),o,o),new A.Z(o,15,o,o)],s)
+r=A.a([new A.Z(o,50,o,o),A.dn(A.PK(A.cO("assets/images/logo.png",o,B.a7,70,70)),o,o),new A.Z(o,5,o,o),A.dn(A.ad("Realtor UdayaChandran".toUpperCase(),o,o,o,o,A.bU(B.i,25,B.A,o),B.al,o),o,o),new A.Z(o,15,o,o)],s)
 q="+91 "+p.d
 if(l.a.a<800)B.b.K(r,A.a([A.ay(A.a([A.ad(q,o,o,o,o,A.aX(o,o,B.i,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),new A.Z(o,10,o,o),A.ad(m,o,o,o,o,A.aX(o,o,B.i,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.al,o)],s),B.j,o,B.o,B.m)],s))
 else B.b.K(r,A.a([new A.aW(new A.X(10,0,10,0),A.br(A.a([A.ad(q,o,o,o,o,A.aX(o,o,B.i,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),A.ad(m,o,o,o,o,A.aX(o,o,B.i,o,o,o,o,o,o,o,o,15,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.al,o)],s),B.j,B.kR,B.m),o)],s))
@@ -47352,7 +47352,7 @@ r.push(A.br(A.a([p.A0(0),p.A0(1),p.A0(2),p.A0(3)],s),B.j,B.Z,B.m))
 r.push(new A.Z(o,20,o,o))
 r.push(A.am(o,o,B.k,B.cI,o,o,o,0.5,o,o,o,o,1/0))
 r.push(new A.Z(o,15,o,o))
-r.push(A.dn(A.ad("\xa9 2025 Realtor Udaya Chandran. All rights reserved. ",o,o,o,o,A.hG(B.i,12,o),o,o),o,o))
+r.push(A.dn(A.ad("\xa9 2025 Realtor UdayaChandran. All rights reserved. ",o,o,o,o,A.hG(B.i,12,o),o,o),o,o))
 r.push(new A.Z(o,15,o,o))
 return A.am(o,A.ay(r,B.j,o,B.o,B.m),B.k,B.c4,o,o,o,o,o,o,o,o,o)},
 A0(a){var s=null,r=A.bz(5),q=this.c
@@ -47429,7 +47429,7 @@ k.sUN(B.Pt)
 k=new A.aIi(k)
 j=new A.GK(new A.aqo(new A.GJ(new A.aqp(),s)),k,B.BE,j)
 k.f=j
-return new A.EU(B.E8,j,"Realtor Udaya Chandran",i,!1,h)}}
+return new A.EU(B.E8,j,"Realtor UdayaChandran",i,!1,h)}}
 A.aqf.prototype={
 $1(a){return A.fW(new A.pM(0,null),t.z)},
 $S:16}
@@ -48503,7 +48503,7 @@ A.dg(s,!1).eo(A.ms(new A.a9G(),p,r),r)
 break}}}
 A.a9Q.prototype={
 $2(a,b){var s=null,r=this.a,q=t.p
-return A.br(A.a([new A.Z(b.b,s,A.f7(A.ay(A.a([new A.Z(s,20,s,s),new A.aW(B.Hy,A.ad("Welcome Realtor Udaya Chandran ,",s,s,s,s,A.aX(s,s,B.n,s,s,s,s,s,s,s,s,20,s,s,B.aw,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.Z(s,10,s,s),A.am(s,A.aUT(A.a([A.br(A.a([A.c1(A.ch(!1,s,!0,new A.l1("Banner",B.MU,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9H(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,new A.l1("Gallery",B.MS,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9I(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,new A.l1("Video",B.MT,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9J(r),s,s,s,s,s),1)],q),B.j,B.o,B.m),A.br(A.a([A.c1(A.ch(!1,s,!0,new A.l1("Enquiry",B.MR,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9K(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,new A.l1("Comments",B.MI,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9L(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,new A.l1("Testimonials",B.MQ,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9M(r),s,s,s,s,s),1)],q),B.j,B.o,B.m),A.br(A.a([A.c1(A.ch(!1,s,!0,new A.l1("Profile",B.MF,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9N(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,new A.l1("Log Out",B.MM,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9O(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,A.am(s,s,B.k,s,s,s,s,s,s,s,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9P(),s,s,s,s,s),1)],q),B.j,B.o,B.m)],q),s,new A.k9(s),s,!0),B.k,s,s,s,s,s,new A.X(10,0,10,0),s,s,s,s)],q),B.av,s,B.o,B.m),s,s,B.N),s)],q),B.j,B.Z,B.m)},
+return A.br(A.a([new A.Z(b.b,s,A.f7(A.ay(A.a([new A.Z(s,20,s,s),new A.aW(B.Hy,A.ad("Welcome Realtor UdayaChandran ,",s,s,s,s,A.aX(s,s,B.n,s,s,s,s,s,s,s,s,20,s,s,B.aw,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.Z(s,10,s,s),A.am(s,A.aUT(A.a([A.br(A.a([A.c1(A.ch(!1,s,!0,new A.l1("Banner",B.MU,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9H(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,new A.l1("Gallery",B.MS,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9I(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,new A.l1("Video",B.MT,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9J(r),s,s,s,s,s),1)],q),B.j,B.o,B.m),A.br(A.a([A.c1(A.ch(!1,s,!0,new A.l1("Enquiry",B.MR,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9K(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,new A.l1("Comments",B.MI,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9L(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,new A.l1("Testimonials",B.MQ,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9M(r),s,s,s,s,s),1)],q),B.j,B.o,B.m),A.br(A.a([A.c1(A.ch(!1,s,!0,new A.l1("Profile",B.MF,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9N(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,new A.l1("Log Out",B.MM,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9O(r),s,s,s,s,s),1),A.c1(A.ch(!1,s,!0,A.am(s,s,B.k,s,s,s,s,s,s,s,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a9P(),s,s,s,s,s),1)],q),B.j,B.o,B.m)],q),s,new A.k9(s),s,!0),B.k,s,s,s,s,s,new A.X(10,0,10,0),s,s,s,s)],q),B.av,s,B.o,B.m),s,s,B.N),s)],q),B.j,B.Z,B.m)},
 $S:577}
 A.a9H.prototype={
 $0(){this.a.nD(1)},
@@ -48805,7 +48805,7 @@ A.aK(a,s,r).toString
 r=A.aK(a,s,r).w
 return A.am(s,new A.fV(new A.ajq(r.a.a<800),s),B.k,s,s,s,s,s,s,s,s,s,17976931348623157e292)}}
 A.ajq.prototype={
-$2(a,b){var s=null,r=this.a,q=A.cO("assets/home_bg.jpg",s,B.a7,r?700:600,17976931348623157e292),p=r?700:600,o=A.T(204,0,0,0),n=A.ad("Realtor Udaya Chandran".toUpperCase(),s,s,s,s,A.bU(B.cu,r?17:50,B.A,1),B.al,s),m=A.bz(5),l=t.p
+$2(a,b){var s=null,r=this.a,q=A.cO("assets/home_bg.jpg",s,B.a7,r?700:600,17976931348623157e292),p=r?700:600,o=A.T(204,0,0,0),n=A.ad("Realtor UdayaChandran".toUpperCase(),s,s,s,s,A.bU(B.cu,r?17:50,B.A,1),B.al,s),m=A.bz(5),l=t.p
 return A.da(B.a9,A.a([q,A.am(B.M,A.ay(A.a([n,new A.Z(s,15,s,s),new A.Z(s,70,s,s),A.am(s,A.ch(!1,s,!0,B.cx,s,!0,s,s,s,s,s,s,s,s,s,new A.ajh(),s,s,s,s,s),B.k,s,s,new A.bj(B.c5,s,s,m,s,s,B.G),s,s,s,new A.X(20,10,20,10),s,s,s)],l),B.j,s,B.Z,B.az),B.k,o,s,s,s,p,s,s,s,s,1/0),A.fH(s,new A.id(s),s,s,0,0,0,s)],l),B.B,B.a5,s)},
 $S:37}
 A.ajh.prototype={
@@ -48948,7 +48948,7 @@ case 3:return A.r(null,r)}})
 return A.t($async$$0,r)},
 $S:8}
 A.ajC.prototype={
-$2(a,b){var s,r,q,p,o=null,n="assets/images/logo.png",m="Realtor Uday Chandran is a dynamic real estate agency specializing in property sales, rentals, and investment opportunities. With a commitment to excellence, Gubera Vasal connects buyers, sellers, and investors with prime real estate options, ensuring seamless transactions and exceptional customer service. Whether you're looking for residential, commercial, or luxury properties, Gubera Vasal offers expert guidance and market insights to help clients make informed decisions.",l=this.a
+$2(a,b){var s,r,q,p,o=null,n="assets/images/logo.png",m="Realtor UdayaChandran is a dynamic real estate agency specializing in property sales, rentals, and investment opportunities. With a commitment to excellence, Gubera Vasal connects buyers, sellers, and investors with prime real estate options, ensuring seamless transactions and exceptional customer service. Whether you're looking for residential, commercial, or luxury properties, Gubera Vasal offers expert guidance and market insights to help clients make informed decisions.",l=this.a
 if(l.e){s=t.p
 r=A.a([new A.RY(o),new A.Z(o,10,o,o)],s)
 if(J.b0(l.CW)>0)B.b.K(r,A.a([new A.Z(o,30,o,o),new A.C1("NEW LAUNCH ALERT",A.bU(B.cJ,25,B.A,o),o),A.aUk(l.CW)],s))
@@ -49796,7 +49796,7 @@ this.fM(0)},
 F(a){var s,r=null
 this.d=a
 s=t.p
-return A.eR(r,r,A.hJ(!0,A.am(r,A.da(B.a9,A.a([A.dn(A.cO("assets/images/logo.png",r,r,100,100),r,r),new A.eb(B.es,r,r,A.ay(A.a([A.ad("Realtor Udaya Chandran",r,r,r,r,A.aX(r,r,B.aL,r,r,r,r,r,r,r,r,17,r,r,B.A,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.Z(r,15,r,r)],s),B.j,r,B.o,B.az),r)],s),B.B,B.a5,r),B.k,B.i,r,r,r,17976931348623157e292,r,r,r,r,r),!0),r)}}
+return A.eR(r,r,A.hJ(!0,A.am(r,A.da(B.a9,A.a([A.dn(A.cO("assets/images/logo.png",r,r,100,100),r,r),new A.eb(B.es,r,r,A.ay(A.a([A.ad("Realtor UdayaChandran",r,r,r,r,A.aX(r,r,B.aL,r,r,r,r,r,r,r,r,17,r,r,B.A,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.Z(r,15,r,r)],s),B.j,r,B.o,B.az),r)],s),B.B,B.a5,r),B.k,B.i,r,r,r,17976931348623157e292,r,r,r,r,r),!0),r)}}
 A.axj.prototype={
 $0(){var s,r,q=this.a.d
 q===$&&A.b()
